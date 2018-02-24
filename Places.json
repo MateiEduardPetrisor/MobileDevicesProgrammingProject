@@ -1,0 +1,425 @@
+{
+	"Places":
+	{
+		"Restaurants":
+		[
+			{
+				"-type":"R",
+				"-name":"La Cave De Bucarest",
+				"-lat":"44.445318",
+				"-long":"26.015774"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Potcoava",
+				"-lat":"44.443870",
+				"-long":"26.059905"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant NEST",
+				"-lat":"44.438723",
+				"-long":"26.027976"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Taj",
+				"-lat":"44.423277",
+				"-long":"26.077757"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Capri",
+				"-lat":"44.435046",
+				"-long":"25.999823"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Barka Saffon",
+				"-lat":"44.464456",
+				"-long":"26.077071"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Britania",
+				"-lat":"44.411016",
+				"-long":"26.085654"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Elisabeta",
+				"-lat":"44.434310",
+				"-long":"26.081191"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Pescarus",
+				"-lat":"44.472512",
+				"-long":"26.088105"
+			},
+			{
+				"-type":"R",
+				"-name":"Restaurant Carul Cu Bere",
+				"-lat":"44.432118",
+				"-long":"26.104955"
+			}
+		],
+		"Bars":
+		[							
+			{
+				"-type":"B",
+				"-name":"Green Hours 22 Cafe Bar",
+				"-lat":"44.442884",
+				"-long":"26.093530"
+			},
+			{
+				"-type":"B",
+				"-name":"Fratelli Espresso Bar",
+				"-lat":"44.440954",
+				"-long":"26.097958"
+			},
+			{
+				"-type":"B",
+				"-name":"Primus Bar",
+				"-lat":"44.442158",
+				"-long":"26.094501"
+			},
+			{
+				"-type":"B",
+				"-name":"Newton Cocktail Bar",
+				"-lat":"44.440988",
+				"-long":"26.104633"
+			},
+			{
+				"-type":"B",
+				"-name":"Abel Wine Bar",
+				"-lat":"44.430112",
+				"-long":"26.097367"
+			},
+			{
+				"-type":"B",
+				"-name":"Epic Bar",
+				"-lat":"44.434768",
+				"-long":"26.106582"
+			},
+			{
+				"-type":"B",
+				"-name":"Bordello Bar",
+				"-lat":"44.430754",
+				"-long":"26.100807"
+			},
+			{
+				"-type":"B",
+				"-name":"Sky Bar",
+				"-lat":"44.457355",
+				"-long":"26.096036"
+			},
+			{
+				"-type":"B",
+				"-name":"Corks Bar",
+				"-lat":"44.432008",
+				"-long":"26.102538"
+			},
+			{
+				"-type":"B",
+				"-name":"Bruno Wine Bar & Bristo",
+				"-lat":"44.431027",
+				"-long":"26.101342"
+			}
+		],
+		"Museums":
+		[
+			{
+				"-type":"M",
+				"-name":"Muzeul Grigore Antipa",
+				"-lat":"44.453109",
+				"-long":"26.084637"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul Colectiilor De Arta",
+				"-lat":"44.444602",
+				"-long":"26.091097"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul National De Istorie a Romaniei",
+				"-lat":"44.431499",
+				"-long":"26.097367"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul National De Arta Contemporana",
+				"-lat":"44.428113",
+				"-long":"26.086433"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul Municipiului Bucuresti",
+				"-lat":"44.434939",
+				"-long":"26.102108"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul Militar",
+				"-lat":"44.440726",
+				"-long":"26.076415"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul CFR",
+				"-lat":"44.4482015",
+				"-long":"26.072898"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul Satului",
+				"-lat":"44.472427",
+				"-long":"26.076343"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul Taranului Roman",
+				"-lat":"44.454327",
+				"-long":"26.083731"
+			},
+			{
+				"-type":"M",
+				"-name":"Muzeul National De Geologie",
+				"-lat":"44.454819",
+				"-long":"26.085171"
+			},
+			{
+				"-type":"SC",
+				"-name":"AFI Palace Cotroceni",
+				"-lat":"44.431470",
+				"-long":"26.051704"
+			}
+		],
+		"Shopping-Centers":
+		[
+			{
+				"-type":"SC",
+				"-name":"Baneasa Shopping City",
+				"-lat":"44.507068",
+				"-long":"26.089788"
+			},
+			{
+				"-type":"SC",
+				"-name":"Plaza Romania",
+				"-lat":"44.428440",
+				"-long":"26.034867"
+			},
+			{
+				"-type":"SC",
+				"-name":"Bucuresti Mall",
+				"-lat":"44.420295",
+				"-long":"26.126273"
+			},
+			{
+				"-type":"SC",
+				"-name":"Mega Mall",
+				"-lat":"44.443113",
+				"-long":"26.152106"
+			},
+			{
+				"-type":"SC",
+				"-name":"Centrul Comercial Orhideea",
+				"-lat":"44.444881",
+				"-long":"26.062857"
+			},
+			{
+				"-type":"SC",
+				"-name":"Promenada Mall",
+				"-lat":"44.478234",
+				"-long":"26.103461"
+			},
+			{
+				"-type":"SC",
+				"-name":"Militari Shopping",
+				"-lat":"44.439424",
+				"-long":"25.983055"
+			},
+			{
+				"-type":"SC",
+				"-name":"Grant Shopping Center",
+				"-lat":"44.450844",
+				"-long":"26.045604"
+			},
+			{
+				"-type":"SC",
+				"-name":"Sun Plaza",
+				"-lat":"44.397036",
+				"-long":"26.122076"
+			}
+		],
+		"Hotels":
+		[
+			{
+				"-type": "H",
+				"-name": "Hotel Ambasador",
+				"-lat": "44.441960",
+				"-long": "26.099446"
+			}, 
+			{
+				"-type": "H",
+				"-name": "Capital Plaza Hotel",
+				"-lat": "44.452631",
+				"-long": "26.096406"
+			}, 
+			{
+				"-type": "H",
+				"-name": "Hotel Cismigiu",
+				"-lat": "44.434852",
+				"-long": "26.094898"
+			}, 
+			{
+				"-type": "H",
+				"-name": "Novhotel",
+				"-lat": "44.436892",
+				"-long": "26.097484"
+			}, 
+			{
+				"-type": "H",
+				"-name": "Hotel Rembrandt",
+				"-lat": "44.432354",
+				"-long": "26.100101"
+			}, 
+			{
+				"-type": "H",
+				"-name": "JW Marriott",
+				"-lat": "44.425696",
+				"-long": "26.076859"
+			},
+			{
+				"-type": "H",
+				"-name": "Hotel Parliament",
+				"-lat": "44.429314",
+				"-long": "26.080408"
+			},
+			{
+				"-type": "H",
+				"-name": "Hotel Ambiance",
+				"-lat": "44.443833",
+				"-long": "26.054494"
+			}, 
+			{
+				"-type": "H",
+				"-name": "Hotel Sheraton",
+				"-lat": "44.446490",
+				"-long": "26.099050"
+			}, 
+			{
+				"-type": "H",
+				"-name": "Marshall Garden",
+				"-lat": "44.449930",
+				"-long": "26.099484"
+			}
+		],
+		"Points-Of-Interest":
+		[ 
+			{
+				"-type": "POI",
+				"-name": "Palatul Parlamentului",
+				"-lat": "44.427502",
+				"-long": "26.087353"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Ateneul Roman",
+				"-lat": "44.44136",
+				"-long": "26.097407"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Parcul Herastrau",
+				"-lat": "44.436603",
+				"-long": "26.091088"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Biserica Stavropoleos",
+				"-lat": "44.431802",
+				"-long": "26.098869"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Curtea Veche",
+				"-lat": "44.430093",
+				"-long": "26.101302"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Arcul de Triumf",
+				"-lat": "44.467177",
+				"-long": "26.078124"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Grădina Botanică",
+				"-lat": "44.436488",
+				"-long": "26.065560"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Palatul Cretulescu",
+				"-lat": "44.439573",
+				"-long": "26.088678"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Parcul Tineretului",
+				"-lat": "44.405695",
+				"-long": "26.106029"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Parcul Cismigiu",
+				"-lat": "44.436604",
+				"-long": "26.091090"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Teatrul National Bucuresti",
+				"-lat": "44.436781",
+				"-long": "26.103949"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Opera Romana din Bucuresti",
+				"-lat": "44.435901",
+				"-long": "26.079515"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Biserica Mihai Voda",
+				"-lat": "44.431593",
+				"-long": "26.093211"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Biserica Cretulescu",
+				"-lat": "44.438145",
+				"-long": "26.096715"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Templul Unirea Sfanta",
+				"-lat": "44.428400",
+				"-long": "26.107873"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Insula Parcul Carol",
+				"-lat": "44.413172",
+				"-long": "26.095583"
+			}, 
+			{
+				"-type": "POI",
+				"-name": "Manastirea Antim",
+				"-lat": "44.426146",
+				"-long": "26.093839"
+			}
+		]
+	}
+}

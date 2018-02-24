@@ -1,0 +1,15 @@
+Team Code:4717
+Matei Eduard-Petrisor
+Moraru Stefan
+Mihalache Alexandru
+
+Activities:
+1 LogonActivity
+2 RegisterActivity
+3 MainMenuActivity
+4 PlacesActivity
+5 MapsActivity
+6 ReviewsActivity
+7 ReviewDetailsActivity
+8 AboutActivity
+9 ChartActivity

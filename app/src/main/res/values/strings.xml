@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MobileDevicesProgrammingProject</string>
+    <string name="reviewHint">Write Your Review Here</string>
+    <string name="ReviewBtn">Write Review</string>
+    <string name="textRating">Rating</string>
+    <string name="cancelreview">Cancel</string>
+    <string name="viewReviews">View Reviews</string>
+    <string name="btnViewList">View List</string>
+    <string name="btnMap">View On Map</string>
+    <string-array name="Type">
+        <item>Bars</item>
+        <item>Restaurants</item>
+        <item>Shopping Centers</item>
+        <item>Museums</item>
+        <item>Hotels</item>
+        <item>Points Of Interest</item>
+    </string-array>
+    <string name="title_activity_maps">MobileDevicesProgrammingProject</string>
+    <string name="typeofplace">Type Of Place</string>
+    <string name="tvRegUsername">Username:</string>
+    <string name="etRegUsername">Input Username</string>
+    <string name="tvRegPassword">Password:</string>
+    <string name="etRegPassword">Input Password</string>
+    <string name="tvRegConfirmPassword">Confirm Password</string>
+    <string name="etRegConfirmPassword">Input Password</string>
+    <string name="btnCreateAccount">Register</string>
+    <string name="tvUsername">Username:</string>
+    <string name="etUsername">Input Username</string>
+    <string name="tvPassword">Password:</string>
+    <string name="etPassword">Input Password</string>
+    <string name="btnLogon">Logon</string>
+    <string name="btnRegister">New Account</string>
+    <string name="revUser">User:</string>
+    <string name="revText">Text:</string>
+    <string name="revRating">Rating:</string>
+    <string name="revTitle">List Of Reviews:</string>
+    <string name="aboutBtn">About</string>
+    <string name="placeName">Place:</string>
+    <string name="tv_username">Username:</string>
+    <string name="chartTxt">Chart</string>
+    <string name="TravelMode">Travel Mode:</string>
+    <string name="clearMapBtn">Clear Map</string>
+    <string-array name="Travel_Modes">
+        <item>walking</item>
+        <item>drivig</item>
+        <item>transit</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textColor="@android:color/black"
+    tools:context="petrisor.eduard.matei.mobiledevicesprogrammingproject.PlacesActivity">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black">
+
+
+        <LinearLayout
+            android:id="@+id/LL1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:textColor="@android:color/black">
+
+            <TextView
+                android:id="@+id/placesTXTView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/typeofplace"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textStyle="normal|bold|italic" />
+
+
+            <ListView
+                android:id="@+id/lv_places"
+                android:layout_width="wrap_content"
+                android:layout_height="438dp"
+                android:background="@color/common_google_signin_btn_text_light_default"
+                android:footerDividersEnabled="false"
+                android:headerDividersEnabled="false"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+    <LinearLayout
+        android:id="@+id/LL2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:textColor="@android:color/black">
+
+        <Button
+            android:id="@+id/btnViewOnMap"
+            android:layout_width="362dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnMap"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

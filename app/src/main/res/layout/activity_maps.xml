@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@android:color/black"
+    tools:context="petrisor.eduard.matei.mobiledevicesprogrammingproject.MapsActivity">
+
+    <LinearLayout
+        android:id="@+id/LL_Options"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:textColor="@android:color/black">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/TravelMode"
+            android:textColor="@android:color/black" />
+
+
+        <Spinner
+            android:id="@+id/Spinner_map"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/Travel_Modes"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/btnClearMap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/clearMapBtn" />
+
+
+    </LinearLayout>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="53dp"
+        android:textColor="@android:color/black"
+        tools:context="petrisor.eduard.matei.mobiledevicesprogrammingproject.MapsActivity" />
+</RelativeLayout>
+
